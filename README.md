@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C programming**
 
-- 👯 I’m looking to collaborate on **fellow alx mates**
+- 👯 I’m looking to collaborate with **fellow alx mates**
 
 - 📫 How to reach me **musa.godwin8112@gmail.com**
 
