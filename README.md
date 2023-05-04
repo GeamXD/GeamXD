@@ -1,4 +1,4 @@
-![Alttext](header.png)
+![Header](github-header-image.png)
 <h3 align="center">A passionate Data Scientist from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geamxd&label=Profile%20views&color=0e75b6&style=flat" alt="geamxd" /> </p>
