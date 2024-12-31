@@ -13,7 +13,8 @@
 </p>
 
 - 📫 How to reach me: **musa.godwin8112@gmail.com**
-
+- 📑 [My Digital Resume](https://my-digital-resumee.streamlit.app/)
+- 💼 [Portfolio](https://www.datascienceportfol.io/musagodwin8112)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/musa__godwin" target="blank">
