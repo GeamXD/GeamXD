@@ -49,8 +49,14 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geamxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geamxd&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geamxd&show_icons=true&theme=tokyonight&hide_border=true&count_private=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geamxd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=geamxd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
