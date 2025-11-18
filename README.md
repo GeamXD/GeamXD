@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Analytics Engineer from Nigeria 🇳🇬
+### Analytics Engineer
 *Transforming data into actionable insights*
 
 <img src="https://komarev.com/ghpvc/?username=geamxd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
