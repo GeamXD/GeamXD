@@ -1,41 +1,63 @@
-![Header](github-header-image.png)
+# Hi there, I'm Musa Godwin 👋
 
-<h3 align="center">A passionate Data Scientist from Nigeria</h3>
+<div align="center">
+  
+### Analytics Engineer from Nigeria 🇳🇬
+*Transforming data into actionable insights*
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=geamxd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=geamxd&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=geamxd" alt="Trophies" />
-  </a>
-</p>
+</div>
 
-- 📫 How to reach me: **musa.godwin8112@gmail.com**
-- 📑 [My Digital Resume](https://my-digital-resumee.streamlit.app/)
-- 💼 [Portfolio](https://www.datascienceportfol.io/musagodwin8112)
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/musa__godwin" target="blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/musa-godwin" target="blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/musagodwin" target="blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/musa_godwin" target="blank"> 
-  <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-</p>
+---
 
- <br>
- <br>
- <br>
-    
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geamxd&show_icons=true&locale=en&layout=compact" alt="geamxd" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geamxd&show_icons=true&locale=en" alt="geamxd" /></p>
+- 🔭 I'm passionate about building robust data pipelines and analytics solutions
+- 📊 Specializing in data transformation, modeling, and visualization
+- 🌱 Continuously learning and exploring new data engineering tools
+- 📫 Reach me at: **musa.godwin8112@gmail.com**
+- 📑 Check out my [Digital Resume](https://my-digital-resumee.streamlit.app/)
+- 💼 View my [Portfolio](https://www.datascienceportfol.io/musagodwin8112)
 
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/musa__godwin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/musa-godwin)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/musagodwin)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/musa_godwin)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=geamxd&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geamxd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geamxd&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+<div align="center">
+  
+*💡 "Data is the new oil, but analytics is the combustion engine"*
+
+</div>
