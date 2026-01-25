@@ -17,8 +17,7 @@
 - 📊 Specializing in data transformation, modeling, and visualization
 - 🌱 Continuously learning and exploring new data engineering tools
 - 📫 Reach me at: **musa.godwin8112@gmail.com**
-- 📑 Check out my [Digital Resume](https://my-digital-resumee.streamlit.app/)
-- 💼 View my [Portfolio](https://www.datascienceportfol.io/musagodwin8112)
+- 💼 View my [Portfolio](https://musa-godwin-portfolio.vercel.app/)
 
 ---
 
